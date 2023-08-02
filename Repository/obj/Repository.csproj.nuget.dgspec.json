@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Satish Sir\\API\\API\\Repository\\Repository.csproj": {}
+    "D:\\Satish Sir\\Demo_API\\dev-development\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "D:\\Satish Sir\\API\\API\\BAL\\BAL.csproj": {
+    "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Satish Sir\\API\\API\\BAL\\BAL.csproj",
+        "projectUniqueName": "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "D:\\Satish Sir\\API\\API\\BAL\\BAL.csproj",
+        "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\BAL.csproj",
         "packagesPath": "C:\\Users\\Vision-048\\.nuget\\packages\\",
-        "outputPath": "D:\\Satish Sir\\API\\API\\BAL\\obj\\",
+        "outputPath": "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vision-048\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,14 +115,14 @@
         }
       }
     },
-    "D:\\Satish Sir\\API\\API\\Common\\Common.csproj": {
+    "D:\\Satish Sir\\Demo_API\\dev-development\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Satish Sir\\API\\API\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Satish Sir\\Demo_API\\dev-development\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Satish Sir\\API\\API\\Common\\Common.csproj",
+        "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Vision-048\\.nuget\\packages\\",
-        "outputPath": "D:\\Satish Sir\\API\\API\\Common\\obj\\",
+        "outputPath": "D:\\Satish Sir\\Demo_API\\dev-development\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vision-048\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,11 +140,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Satish Sir\\API\\API\\BAL\\BAL.csproj": {
-                "projectPath": "D:\\Satish Sir\\API\\API\\BAL\\BAL.csproj"
+              "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\BAL.csproj": {
+                "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\BAL.csproj"
               },
-              "D:\\Satish Sir\\API\\API\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Satish Sir\\API\\API\\DAL\\DAL.csproj"
+              "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\DAL.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "D:\\Satish Sir\\API\\API\\DAL\\DAL.csproj": {
+    "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Satish Sir\\API\\API\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Satish Sir\\API\\API\\DAL\\DAL.csproj",
+        "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Vision-048\\.nuget\\packages\\",
-        "outputPath": "D:\\Satish Sir\\API\\API\\DAL\\obj\\",
+        "outputPath": "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vision-048\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -344,14 +344,14 @@
         }
       }
     },
-    "D:\\Satish Sir\\API\\API\\Repository\\Repository.csproj": {
+    "D:\\Satish Sir\\Demo_API\\dev-development\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Satish Sir\\API\\API\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Satish Sir\\Demo_API\\dev-development\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\Satish Sir\\API\\API\\Repository\\Repository.csproj",
+        "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Vision-048\\.nuget\\packages\\",
-        "outputPath": "D:\\Satish Sir\\API\\API\\Repository\\obj\\",
+        "outputPath": "D:\\Satish Sir\\Demo_API\\dev-development\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vision-048\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -369,11 +369,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Satish Sir\\API\\API\\Common\\Common.csproj": {
-                "projectPath": "D:\\Satish Sir\\API\\API\\Common\\Common.csproj"
+              "D:\\Satish Sir\\Demo_API\\dev-development\\Common\\Common.csproj": {
+                "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\Common\\Common.csproj"
               },
-              "D:\\Satish Sir\\API\\API\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Satish Sir\\API\\API\\DAL\\DAL.csproj"
+              "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\DAL\\DAL.csproj"
               }
             }
           }

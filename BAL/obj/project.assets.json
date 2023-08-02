@@ -8457,11 +8457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Satish Sir\\API\\API\\BAL\\BAL.csproj",
+      "projectUniqueName": "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\BAL.csproj",
       "projectName": "BAL",
-      "projectPath": "D:\\Satish Sir\\API\\API\\BAL\\BAL.csproj",
+      "projectPath": "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\BAL.csproj",
       "packagesPath": "C:\\Users\\Vision-048\\.nuget\\packages\\",
-      "outputPath": "D:\\Satish Sir\\API\\API\\BAL\\obj\\",
+      "outputPath": "D:\\Satish Sir\\Demo_API\\dev-development\\BAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vision-048\\AppData\\Roaming\\NuGet\\NuGet.Config",
